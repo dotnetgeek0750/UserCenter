@@ -2,5 +2,7 @@
 OpenAPI UserCenter
 
 
-EntityFramework
+EntityFramework Code First
+AutoFac
+WebApi Filter
 
